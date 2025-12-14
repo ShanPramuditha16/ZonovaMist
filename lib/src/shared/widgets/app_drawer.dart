@@ -25,7 +25,7 @@ class AppDrawer extends StatelessWidget {
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
-                  // Logo on the left
+                  // Logo on the left side
                   Container(
                     width: 65,
                     height: 65,
